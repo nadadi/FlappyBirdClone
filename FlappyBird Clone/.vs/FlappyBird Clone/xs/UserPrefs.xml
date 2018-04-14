@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{A2202597-F77F-08FF-9566-A98B5B407175}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DeathCollider.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="26" Column="98" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="41" Column="10" />
+      <File FileName="Assets/Scripts/PlayAudio.cs" Line="14" Column="5" />
+      <File FileName="Assets/Scripts/PickCoin.cs" Line="18" Column="36" />
+      <File FileName="Assets/Scripts/DeathCollider.cs" Line="16" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FlappyBird_220Clone PreferredExecutionTarget="Unity.Editor" />
+</Properties>
